@@ -1,0 +1,28 @@
+body {
+    background-color: #f0f0f0; /* Color de fondo que contrasta con el azul */
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  .container {
+    width: 25%;
+    height: 50%;
+    background-color: #3498db; /* Azul */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    color: #ffffff; /* Texto blanco */
+  }
+  
+  .header {
+    font-size: 2.5em;
+    margin-top: 0;
+    color: #3498db; /* Azul */
+  }
+  
